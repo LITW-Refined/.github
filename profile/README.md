@@ -9,3 +9,19 @@ Note that some of that mods are just forked and updated for reference and archiv
 Feel free to use it in your private or public modpack or contribute back any bugfixes or features you have on your side. Every contribution is welcome. 🙂
 
 List of all mods in the pack: https://cloud.pilzinsel64.de/s/Er3YsCENRmaNtwg
+
+<table align="center">
+    <tr>
+      <td><i>Quick-links</i></td>
+    </tr>
+    <tr>
+      <td valign="top">
+        🌍 <a href="https://pilzinsel64.de/after-humans/">Website</a><br>
+        📬 <a href="">Discord (soon)</a><br>
+        🐞 <a href="https://git.pilzinsel64.de/litw-refined/modpack/-/issues/new?issuable_template=incident&issue%5Bissue_type%5D=incident">Open a new issue</a><br>
+        🥬 <a href="https://git.pilzinsel64.de/litw-refined/modpack/-/issues/new">Sugges new feature</a><br>
+        🖥️ <a href="https://cloud.pilzinsel64.de/s/kMzZT4yiNJZ9oED">Downloads</a><br>
+        🔥 <a href="">CurseForge (soon)</a><br>
+      </td>
+    </tr>
+</table>
