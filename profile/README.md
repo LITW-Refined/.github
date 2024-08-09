@@ -17,11 +17,11 @@ List of all mods in the pack: https://cloud.pilzinsel64.de/s/Er3YsCENRmaNtwg
     <tr>
       <td valign="top">
         🌍 <a href="https://pilzinsel64.de/after-humans/">Website</a><br>
-        📬 <a href="">Discord (soon)</a><br>
+        📬 <a href="about:blank">Discord (soon)</a><br>
         🐞 <a href="https://git.pilzinsel64.de/litw-refined/modpack/-/issues/new?issuable_template=incident&issue%5Bissue_type%5D=incident">Open a new issue</a><br>
         🥬 <a href="https://git.pilzinsel64.de/litw-refined/modpack/-/issues/new">Sugges new feature</a><br>
         🖥️ <a href="https://cloud.pilzinsel64.de/s/kMzZT4yiNJZ9oED">Downloads</a><br>
-        🔥 <a href="">CurseForge (soon)</a><br>
+        🔥 <a href="about:blank">CurseForge (soon)</a><br>
         📃 <a href="https://cloud.pilzinsel64.de/s/Er3YsCENRmaNtwg">Modlist</a><br>
       </td>
     </tr>
