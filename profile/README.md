@@ -22,6 +22,7 @@ List of all mods in the pack: https://cloud.pilzinsel64.de/s/Er3YsCENRmaNtwg
         🥬 <a href="https://git.pilzinsel64.de/litw-refined/modpack/-/issues/new">Sugges new feature</a><br>
         🖥️ <a href="https://cloud.pilzinsel64.de/s/kMzZT4yiNJZ9oED">Downloads</a><br>
         🔥 <a href="">CurseForge (soon)</a><br>
+        📃 <a href="https://cloud.pilzinsel64.de/s/Er3YsCENRmaNtwg">Modlist</a><br>
       </td>
     </tr>
 </table>
