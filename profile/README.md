@@ -8,7 +8,7 @@ Note that some of that mods are just forked and updated for reference and archiv
 
 Feel free to use it in your private or public modpack or contribute back any bugfixes or features you have on your side. Every contribution is welcome. 🙂
 
-~~List of all mods in the pack: https://cloud.pilzinsel64.de/s/Er3YsCENRmaNtwg~~ *(out of date at the moment, sorry, will be available again soon)*
+List of all mods in the pack: https://cloud.pilzinsel64.de/s/Er3YsCENRmaNtwg
 
 <table align="center">
     <tr>
