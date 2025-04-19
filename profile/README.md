@@ -1,14 +1,12 @@
 # Life in the Woods Refined
 
-This is the name of my private modpack. It is based on [After Humans by Gronkh & Debitor](https://www.technicpack.net/modpack/minecraft-after-humans.1060474/) wich is based on [Life in the Woods Renaissance](http://lifeinthewoods.ca/downloads.html). The modpack is inteded to be more like LITW but with the possibility to use technic as you wish.
+LITW Refined is a Minecraft modpack wich based on [After Humans](https://www.technicpack.net/modpack/minecraft-after-humans.1060474/) originally published by Gronkh & Debitor which is based on Minecraft v1.7.10 and on the [Life in the Woods modpack](http://lifeinthewoods.ca/downloads.html). This modpack keeps the 1.7.10 version up-do-date with dozen of mod and config updates and a bunch of new mods.
 
-Here you will find any Minecraft 1.7.10 mod made by me. You also find many open source mods I use that's development has been discontinued by the original mod author. I updated them for compatiblity, bugfixes and my own features. However, there are also a few forks I just have to contribute back to the original repositor.
+## Content
 
-Note that some of that mods are just forked and updated for reference and archive and from my side there is no active development.
+With over 200 mods, LITW Refined brings a wealth of new content to explore. Discover diverse new biomes, venture into massive cave systems, conquer challenging dungeons, and even travel to entirely new dimensions. Expand your creativity with countless new blocks and items, perfect for crafting breathtaking landscapes and structures. Dive into powerful magic systems, or embrace advanced and profound technology. Additionally, numerous quality-of-life improvements, updated and custom textures and well-balanced configurations ensure a fresh and immersive experience.
 
-Feel free to use it in your private or public modpack or contribute back any bugfixes or features you have on your side. Every contribution is welcome. 🙂
-
-List of all mods in the pack: https://cloud.pilzinsel64.de/s/Er3YsCENRmaNtwg
+## Links
 
 <table align="center">
     <tr>
@@ -16,13 +14,35 @@ List of all mods in the pack: https://cloud.pilzinsel64.de/s/Er3YsCENRmaNtwg
     </tr>
     <tr>
       <td valign="top">
-        🌍 <a href="https://pilzinsel64.de/after-humans/">Website</a><br>
-        📬 <a href="about:blank">Discord (soon)</a><br>
-        🐞 <a href="https://git.pilzinsel64.de/litw-refined/modpack/-/issues/new?issuable_template=incident&issue%5Bissue_type%5D=incident">Open a new issue</a><br>
-        🥬 <a href="https://git.pilzinsel64.de/litw-refined/modpack/-/issues/new">Sugges new feature</a><br>
-        🖥️ <a href="https://cloud.pilzinsel64.de/s/kMzZT4yiNJZ9oED">Downloads</a><br>
-        🔥 <a href="about:blank">CurseForge (soon)</a><br>
+        🖥️ <a href="https://git.pilzinsel64.de/litw-refined/modpack/-/wikis/installation">Installation</a><br>
+        ⬇️ <a href="https://cloud.pilzinsel64.de/s/kMzZT4yiNJZ9oED">Downloads</a><br>
         📃 <a href="https://cloud.pilzinsel64.de/s/Er3YsCENRmaNtwg">Modlist</a><br>
+        💬 <a href="https://matrix.to/#/#litw-refined:pilzinsel64.de">Chat</a><br>
+        🐞 <a href="https://git.pilzinsel64.de/litw-refined/modpack/-/issues/new?issuable_template=incident&issue%5Bissue_type%5D=incident">Open a new issue</a><br>
+        🥬 <a href="https://git.pilzinsel64.de/litw-refined/modpack/-/issues/new">Suggest new feature</a><br>
+      </td>
+    </tr>
+</table>
+
+<table align="center">
+    <tr>
+      <td><i>Link</i></td>
+      <td><i>Content</i></td>
+    </tr>
+    <tr>
+      <td valign="top">
+        <a href="https://github.com/LITW-Refined/">GitHub</a>
+      </td>
+      <td valign="top">
+        Modpack repository, configs & co.
+      </td>
+    </tr>
+    <tr>
+      <td valign="top">
+        <a href="https://git.pilzinsel64.de/litw-refined/">GitLab</a>
+      </td>
+      <td valign="top">
+        Mod sources, forks, etc.
       </td>
     </tr>
 </table>
