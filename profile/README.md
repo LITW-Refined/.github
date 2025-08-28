@@ -16,8 +16,8 @@ With over 200 mods, LITW Refined brings a wealth of new content to explore. Disc
       <td valign="top">
         🌍 <a href="https://pilzinsel64.de/after-humans/">Website</a><br>
         🖥️ <a href="https://git.pilzinsel64.de/litw-refined/modpack/-/wikis/installation">Installation</a><br>
-        ⬇️ <a href="https://cloud.pilzinsel64.de/s/kMzZT4yiNJZ9oED">Downloads</a><br>
-        📃 <a href="https://cloud.pilzinsel64.de/s/Er3YsCENRmaNtwg">Modlist</a><br>
+        ⬇️ <a href="https://cloud.pilzinsel64.de/index.php/s/kMzZT4yiNJZ9oED">Downloads</a><br>
+        📃 <a href="https://cloud.pilzinsel64.de/index.php/s/Er3YsCENRmaNtwg">Modlist</a><br>
         💬 <a href="https://matrix.to/#/#litw-refined:pilzinsel64.de">Chat</a><br>
         🐞 <a href="https://git.pilzinsel64.de/litw-refined/modpack/-/issues/new?issuable_template=incident&issue%5Bissue_type%5D=incident">Open a new issue</a><br>
         🥬 <a href="https://git.pilzinsel64.de/litw-refined/modpack/-/issues/new">Suggest new feature</a><br>
