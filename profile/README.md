@@ -20,8 +20,7 @@ With over 200 mods, LITW Refined brings a wealth of new content to explore. Disc
         📃 <a href="https://cloud.pilzinsel64.de/index.php/s/Er3YsCENRmaNtwg">Modlist</a><br>
         💬 <a href="https://matrix.to/#/#litw-refined:pilzinsel64.de">Chat</a><br>
         📙 <a href="https://www.curseforge.com/minecraft/modpacks/life-in-the-woods-refined">CurseForge</a><br>
-        🐞 <a href="https://git.pilzinsel64.de/litw-refined/modpack/issues/new?type=INCIDENT">Open a new issue</a><br>
-        🥬 <a href="https://git.pilzinsel64.de/litw-refined/modpack/issues/new?type=ISSUE">Suggest new feature</a><br>
+        🐞 <a href="https://git.pilzinsel64.de/LITW-Refined/modpack/issues">Issues</a><br>
       </td>
     </tr>
 </table>
